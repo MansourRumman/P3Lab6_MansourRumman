@@ -7,7 +7,6 @@ class buscaminas
 	public:
 		buscaminas(int);
 		void jugar();
-		
 		~buscaminas();
 	private:
 		tablero* tableroBombas;
